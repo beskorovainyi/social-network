@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="647de04f-8fc6-4fa9-849c-d62f862b2ccb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogItem/DialogItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News/News.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News/News.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +25,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Dialogs/Dialogs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="44">
               <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -216,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557922282519</updated>
-      <workItem from="1557922283758" duration="3929000" />
+      <workItem from="1557922283758" duration="4211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3929000" />
+    <option name="totallyTimeSpent" value="4211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="323" y="156" width="1060" height="521" extended-state="0" />
@@ -346,7 +309,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Dialogs/Dialogs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="44">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
